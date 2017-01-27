@@ -111,7 +111,7 @@
                
                {
                "url": "https://image.tmdb.org/t/p/w500/cDctk61tUeQz4LX7tTFPknI28ea.jpg",
-               "title":"15 Movies Your Have To See",
+               "title":"15 Movies You Have To See",
                "id":"56d0bafd9251413e59006b20"
                },
                
