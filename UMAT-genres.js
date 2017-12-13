@@ -3,7 +3,7 @@
                
                {
                
-               "url": "https://image.tmdb.org/t/p/w500/wSyHVm2rv9jHxBqjAfSXJGSAYJ9.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/o5T8rZxoWSBMYwjsUFUqTt6uMQB.jpg",
 			   "title":"Action",
                "id":"28"
 			   },
@@ -15,7 +15,7 @@
                },
               
                {
-                "url": "https://image.tmdb.org/t/p/w500/3HuUMZOTmFwMsoH3aCbVKgTGjXZ.jpg",
+                "url": "https://image.tmdb.org/t/p/w500/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
                 "title":"Animation",
                 "id":"16"
                },
@@ -27,7 +27,7 @@
                },
 			   
 			   {
-               "url": "https://image.tmdb.org/t/p/w500/mmBmAmpjEPGbx7KFDavXFRtA7a3.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg",
                "title":"Crime",
                "id":"80"
 			   },
@@ -87,7 +87,7 @@
                },
 			   
 			   {
-               "url": "https://image.tmdb.org/t/p/w500/czjU8NpPVTx5NzEk0zxe433xN9R.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
                "title":"Romance",
                "id":"10749"
                },
@@ -105,7 +105,7 @@
                },
 			   
 			   {
-               "url": "https://image.tmdb.org/t/p/w500/zSoiLv4sXbKlcbmx32TgnjENkg0.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/lhTtnsPmEYUJB7nOaTKJzYoxJ7X.jpg",
                "title":"Thriller",
                "id":"53"
                },
