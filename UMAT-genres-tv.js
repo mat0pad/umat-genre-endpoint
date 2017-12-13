@@ -15,7 +15,7 @@
                },
 			   
 			   {
-               "url": "https://image.tmdb.org/t/p/w500/alSHaAhEWDfVLxQwaORDCL6qlT9.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/n45rfwldkWjReVCV1iw2b9JhA2L.jpg",
                "title":"Comedy",
                "id":"35"
                },
