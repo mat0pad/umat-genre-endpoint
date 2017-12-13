@@ -3,19 +3,19 @@
                
                {
                
-               "url": "https://image.tmdb.org/t/p/w500/A30ZqEoDbchvE7mCZcSp6TEwB1Q.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/xVzvD5BPAU4HpleFSo8QOdHkndo.jpg",
                "title":"Action & Adventure",
                "id":"10759"
 			   },
 			   
                {
-               "url": "https://image.tmdb.org/t/p/w500/pH38r4TWTqq7Mcs6XAlwgzNUeJe.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/3OFrs1ets87VmRvG78Zg5eJTZeq.jpg",
                "title":"Animation",
                "id":"16"
                },
 			   
 			   {
-               "url": "https://image.tmdb.org/t/p/w500/ndhrAoDsKSGlrAHEV5bDZ3JOqYI.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/alSHaAhEWDfVLxQwaORDCL6qlT9.jpg",
                "title":"Comedy",
                "id":"35"
                },
