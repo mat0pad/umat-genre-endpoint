@@ -69,7 +69,7 @@
                },
 			   
 			   {
-               "url": "https://image.tmdb.org/t/p/w500/i5oEwnSJpbi8L1HOCP3aibkExHU.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/tcheoA2nPATCm2vvXw2hVQoaEFD.jpg",
                "title":"Horror",
                "id":"27"
 			   },
