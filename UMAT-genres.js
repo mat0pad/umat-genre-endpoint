@@ -9,7 +9,7 @@
 			   },
                
                {
-               "url": "https://image.tmdb.org/t/p/w500/mnUbzbYxaaHpaTqFhjl7HwSod7o.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/7C921eWK06n12c1miRXnYoEu5Yv.jpg",
                "title":"Adventure",
                "id":"12"
                },
@@ -81,7 +81,7 @@
                },
 			   
 			   {
-               "url": "https://image.tmdb.org/t/p/w500/aOvgn3E5OjJDepApd1WtS2doqMF.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/pPcg9z8M9AqxZeCHOwjU0Wk4iF8.jpg",
                "title":"Mystery",
                "id":"9648"
                },
@@ -93,7 +93,7 @@
                },
 			   
 			   {
-               "url": "https://image.tmdb.org/t/p/w500/t5KONotASgVKq4N19RyhIthWOPG.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/ulMscezy9YX0bhknvJbZoUgQxO5.jpg",
                "title":"Science Fiction",
                "id":"878"
                },
@@ -111,7 +111,7 @@
                },
 			   
 			   {
-               "url": "https://image.tmdb.org/t/p/w500/pKawqrtCBMmxarft7o1LbEynys7.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/9Xvb2PsWR7a1PM6b17bFlLYoTjR.jpg",
                "title":"War",
                "id":"10752"
 			   },
