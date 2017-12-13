@@ -9,7 +9,7 @@
 			   },
 			   
                {
-               "url": "https://image.tmdb.org/t/p/w500/6En6rMb8vGFWhkoDAv6paUioCIW.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/pH38r4TWTqq7Mcs6XAlwgzNUeJe.jpg",
                "title":"Animation",
                "id":"16"
                },
@@ -21,13 +21,13 @@
                },
 			   
 			   {
-               "url": "https://image.tmdb.org/t/p/w500/gmVSYAD69bBuayMA0Kvnic2tAcm.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/c7t4tidzOw8E88puHlGsqizViOw.jpg",
                "title":"Documentary",
                "id":"99"
 			   },
 			  
 			  {
-               "url": "https://image.tmdb.org/t/p/w500/vwHUdM5NmDw6xtE1pNpAiwb0TF3.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/hcFbIbDzsB9aSSw9VkSGFEl5sGO.jpg",
                "title":"Drama",
                "id":"18"
 			  },
@@ -45,7 +45,7 @@
 			  },
 			   
 			  { 
-               "url": "https://image.tmdb.org/t/p/w500/hD76ZDNjCAbGrKzAYJAHVCJ2ba7.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
                "title":"Mystery",
                "id":"9648"
 	          },
@@ -57,13 +57,13 @@
               }, 
 			  
 			  {
-               "url": "https://image.tmdb.org/t/p/w500/al70ijZyPnMH1C4tQKMZHPvpoA9.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/27CivcoDl5sAwTTcHPpAeKD6sbG.jpg",
                "title":"Reality",
                "id":"10764"
 			  },
 			  
 			  {
-               "url": "https://image.tmdb.org/t/p/w500/mUkuc2wyV9dHLG0D0Loaw5pO2s8.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/8GABbITnzhGuE2RAfWWK0BVdbNo.jpg",
                "title":"Sci-Fi & Fantasy ",
                "id":"10765"
 			  },
@@ -87,7 +87,7 @@
 			  },
                
 			   {
-               "url": "https://image.tmdb.org/t/p/w500/cZlnfCmfw3QESnmPHD62Q0ERhEg.jpg",
+               "url": "https://image.tmdb.org/t/p/w500/o1GlWTeRsOui7MUrc7lfa9zuy9K.jpg",
                "title":"Western",
                "id":"37"
 			   }
