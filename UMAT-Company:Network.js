@@ -2,6 +2,36 @@
     "studios": [
                 
                 {
+                "name": "Metro-Goldwyn-Mayer (MGM)",
+                "id":"8411",
+                "is_company" : "true",
+                "head_line" : "Once the largest, most glamorous, and most revered film studio",
+                "image_1": "https://image.tmdb.org/t/p/w500/qhH3GyIfAnGv1pjdV3mw03qAilg.jpg",
+                "image_2": "https://image.tmdb.org/t/p/w500/zkBSu5jNI9YrAGvvy8cAAc7BZX5.jpg"
+                
+                },
+                
+                {
+                "name": "Universal Studios",
+                "id":"13",
+                "is_company" : "true",
+                "head_line" : "The world's fourth oldest major film studio",
+                "image_1": "https://image.tmdb.org/t/p/w500/3m1p5hHAuUZBmwh7f76r9H5YjNq.jpg",
+                "image_2": "https://image.tmdb.org/t/p/w500/3m1p5hHAuUZBmwh7f76r9H5YjNq.jpg"
+                
+                },
+                
+                {
+                "name": "Miramax Films",
+                "id":"14",
+                "is_company" : "true",
+                "head_line" : "Headquartered in Santa Monica, California",
+                "image_1": "https://image.tmdb.org/t/p/w500/is9usHMC8eh4NYiHKbOHr6snx7n.jpg",
+                "image_2": "https://image.tmdb.org/t/p/w500/m6TxgXteAkyI1ChReyghVNXyjoM.jpg"
+                
+                },
+        
+                {
                 "name": "Lionsgate",
                 "id":"1632",
                 "is_company" : "true",
@@ -298,36 +328,6 @@
                 "head_line" : "Initially provided documentary television programming",
                 "image_1": "https://image.tmdb.org/t/p/w500/6Cty4aAc52pxTnRGmxc4bkpwgKI.jpg",
                 "image_2": "https://image.tmdb.org/t/p/w500/9wq5HIO5yA8oa6ttCHzSo9DiQgA.jpg"
-                
-                },
-                
-                {
-                "name": "Metro-Goldwyn-Mayer (MGM)",
-                "id":"8411",
-                "is_company" : "true",
-                "head_line" : "Once the largest, most glamorous, and most revered film studio",
-                "image_1": "https://image.tmdb.org/t/p/w500/qhH3GyIfAnGv1pjdV3mw03qAilg.jpg",
-                "image_2": "https://image.tmdb.org/t/p/w500/zkBSu5jNI9YrAGvvy8cAAc7BZX5.jpg"
-                
-                },
-                
-                {
-                "name": "Universal Studios",
-                "id":"13",
-                "is_company" : "true",
-                "head_line" : "The world's fourth oldest major film studio",
-                "image_1": "https://image.tmdb.org/t/p/w500/3m1p5hHAuUZBmwh7f76r9H5YjNq.jpg",
-                "image_2": "https://image.tmdb.org/t/p/w500/3m1p5hHAuUZBmwh7f76r9H5YjNq.jpg"
-                
-                },
-                
-                {
-                "name": "Miramax Films",
-                "id":"14",
-                "is_company" : "true",
-                "head_line" : "Headquartered in Santa Monica, California",
-                "image_1": "https://image.tmdb.org/t/p/w500/is9usHMC8eh4NYiHKbOHr6snx7n.jpg",
-                "image_2": "https://image.tmdb.org/t/p/w500/m6TxgXteAkyI1ChReyghVNXyjoM.jpg"
                 
                 },
                 
