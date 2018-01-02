@@ -2,12 +2,6 @@
     "genres": [
 
                {
-               "url":"https://image.tmdb.org/t/p/w500/cuH95R2FJ2gxZBj8lEUElxShy15.jpg",
-               "title":"Ready For Christmas Holidays?",
-               "id":"40113"
-               },
-        
-               {
                "url": "https://image.tmdb.org/t/p/w500/atlgUPxj5PLdEUwtSm9O0Hd2Scr.jpg",
                "title":"The Most Anticipated Movies Of 2018",
                "id":"14762"
