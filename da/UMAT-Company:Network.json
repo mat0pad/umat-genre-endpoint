@@ -45,7 +45,7 @@
                 "name": "Columbia Pictures",
                 "id":"5",
                 "is_company" : "true",
-                "head_line" : "Produktion og distribution studie for Sony",
+                "head_line" : "Produktion og distributions studie for Sony",
                 "image_1": "https://image.tmdb.org/t/p/w500/wVTYlkKPKrljJfugXN7UlLNjtuJ.jpg",
                 "image_2": "https://image.tmdb.org/t/p/w500/pKawqrtCBMmxarft7o1LbEynys7.jpg"
                 
@@ -55,7 +55,7 @@
                 "name": "AMC",
                 "id":"174",
                 "is_company" : "false",
-                "head_line" : "Oprindeligt stod det for \"American Movie Classics\"",
+                "head_line" : "Står for \"American Movie Classics\"",
                 "image_1": "https://image.tmdb.org/t/p/w500/9M5KgyV4ASk39rkxQLFam0bNsvN.jpg",
                 "image_2": "https://image.tmdb.org/t/p/w500/afIzQxIeLfGlwVostyiz7EROmTk.jpg"
                 
