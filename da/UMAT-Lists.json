@@ -1,0 +1,253 @@
+{
+    "genres": [
+
+               {
+               "url": "https://image.tmdb.org/t/p/w500/aRP8QAOhnthglsTUzeLWwoPVV1T.jpg",
+               "title":"Baseret På Sande Historier",
+               "id":"45778"
+               },
+        
+               {
+               "url": "https://image.tmdb.org/t/p/w500/mJEdA3hHWcEaaYJ7P3v9L88qWTv.jpg",
+               "title":"Det Ydre Rum",
+               "id":"45779"
+               },
+        
+               {
+               "url": "https://image.tmdb.org/t/p/w500/atlgUPxj5PLdEUwtSm9O0Hd2Scr.jpg",
+               "title":"De Mest Ventede Film I 2018",
+               "id":"14762"
+               },
+        
+               {
+               "url": "https://image.tmdb.org/t/p/w500/hQIPa1oKM6fSzyp1UBxBfVpSCj2.jpg",
+               "title":"Valentine Med Din Eneste Ene",
+               "id":"56d2235e9251413e5f00afa1"
+               },
+
+               {
+               "url": "https://image.tmdb.org/t/p/w500/l8XO9d6PHHQVBQsUUhxw6Qvu0Hd.jpg",
+               "title":"Hele Avengers Samlingen",
+               "id":"14764"
+               },
+
+               {
+               "url": "https://image.tmdb.org/t/p/w500/oNeqMgCr8FgH3CqioA420utgdT5.jpg",
+               "title":"Det Bedste Fra Zach Galifianakis",
+               "id":"14765"
+               },
+
+               {
+               "url": "https://image.tmdb.org/t/p/w500/mwZk1PKhemcjak9rViVwrn3HLCR.jpg",
+               "title":"Kun Det Bedste fra 2017",
+               "id":"56d0942b9251413e680069fe"
+               },
+
+               {
+               "url": "https://image.tmdb.org/t/p/w500/tZjVVIYXACV4IIIhXeIM59ytqwS.jpg",
+               "title":"Hele Star Wars Samlingen",
+               "id":"56c09c7b925141398a003932"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/br4TdosVhbpFKEJrZ84OYI42JkN.jpg",
+               "title":"Sommertiden Er Her",
+               "id":"57496ed092514134780015d4"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/ld8CzJneOCVSCq4dm6zRmQzlIZl.jpg",
+               "title":"Overlevelse For Enhver Pris",
+               "id":"56f99a869251412fdd006c0a"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/g7y79gXw88PRl5MXD9BiJaWPA9Z.jpg",
+               "title":"Til Den Romantiske Aften",
+               "id":"56aa016ac3a36872e90053c7"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/9pdIEOHiAcOAHsVW0Ia7v4tOrot.jpg",
+               "title":"Klassiske Westerns",
+               "id":"56aa0180c3a36872d800567c"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/ohKncfyZi0NLR1oyyz7ETRnxxWd.jpg",
+               "title":"James Bond - Film Samlingen",
+               "id":"5308b87fc3a36842010027be"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/xDEOxA01480uLTWuvQCw61VmDBt.jpg",
+               "title":"De Klassiske Gangster Film",
+               "id":"56d0bf859251415ad90004bc"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/iqE52K9m00rq3wutzfvTcUlstaL.jpg",
+               "title":"Verdens Undergang",
+               "id":"56f9aa5e9251414de600016e"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/ymzaJLm2EIYbG9n7snVfCnHAPQk.jpg",
+               "title":"De Sørgeligste Film Nogensinde",
+               "id":"56f9a5dc9251414deb0000fa"
+               },
+
+               {
+               "url": "https://image.tmdb.org/t/p/w500/1LrtAhWPSEetJLjblXvnaYtl7eA.jpg",
+               "title":"Oplev Sandheden Om II Verdenskrig",
+               "id":"56d0b844925141799e0040c3"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/mZcqznpPHNPHONEbiT6IGH6j4d.jpg",
+               "title":"Store Film Instrueret Af Steven Spielberg",
+               "id":"56d5f8e592514112cd000543"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/rqAHkvXldb9tHlnbQDwOzRi0yVD.jpg",
+               "title":"Marvels Univers",
+               "id":"50941077760ee35e1500000c"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/uyzUPJ2krcOOZERfV391lmtVQsu.jpg",
+               "title":"DC Univers",
+               "id":"5094147819c2955e4c00006a"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/cDctk61tUeQz4LX7tTFPknI28ea.jpg",
+               "title":"15 Film Du Skal Se",
+               "id":"56d0bafd9251413e59006b20"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/lXOqBOcx1t5A3YhJEIfJZOkigwH.jpg",
+               "title":"De 10 Mest Ventede Film Af 2016",
+               "id":"56d047339251413e6a005fed"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/dYtAyg4vD88hIfrR1VKDnVGhnE6.jpg",
+               "title":"Det Allerbedste Fra Leonardo DiCaprio",
+               "id":"56d05e3e9251416e3a003383"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/jt2Y00h7cOWVAZLCGR444D1B6QV.jpg",
+               "title":"Den 88. Academy Awards (Oscars 2016)",
+               "id":"569bc01dc3a36858c6000030"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/sSvgNBeBNzAuKl8U8sP50ETJPgx.jpg",
+               "title":"Top 25 Film Af 2015",
+               "id":"56d091769251413e6d0069d4"
+               },
+
+               {
+               "url": "https://image.tmdb.org/t/p/w500/aY0kmLSNKFbHZyvmHqiuegVlDFW.jpg",
+               "title":"Hele DreamWorks Animations Samlingen",
+               "id":"56d5fcf092514139320041ea"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/f2WtyrZeupq7hQ4SX0SXuMUbjOa.jpg",
+               "title":"Film Med Amanda Seyfried",
+               "id":"56d314eac3a3681e3c010f42"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/s0ICtHdrTWYaBRJSbOgKEYrm3F4.jpg",
+               "title":"Til Den Stille Familieaften",
+               "id":"56deec15c3a36803bf002fd0"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/kFslzsvxOQgjbuDfta3kzbOWQY5.jpg",
+               "title":"Hele Alien Historien",
+               "id":"56dee364c3a36803ce0031c9"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/oH39T1bwjztw6qh89pvVAJBsUUq.jpg",
+               "title":"Disney Klassikerne",
+               "id":"51224e42760ee3297424a1e0"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/lAdRfK0Clun517bq5V0meoIx7SG.jpg",
+               "title":"Gysere Til En Spooky Aften",
+               "id":"54e4781b925141195300adba"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/sEgULSEnywgdSesVHFHpPAbOijl.jpg",
+               "title":"Det Bedste Fra Matt Damon",
+               "id":"56d05f33c3a3681e3e006ae8"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/l7zANdjgTvYqwZUx76Vk0EKpCH5.jpg",
+               "title":"Hele Pirates Of The Caribbean Samlingen",
+               "id":"56d03aac9251416e3a002e5a"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/xu9zaAevzQ5nnrsXN6JcahLnG4i.jpg",
+               "title":"Matthew McConaughey Når Han Er Bedst",
+               "id":"56d0614a9251413e6a006438"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/6kVVfNT0auG6fU5SFQ1zbayNWUC.jpg",
+               "title":"Paramount Pictures - Alt Det Bedste",
+               "id":"56def1d8925141579d001f89"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/cHy7nSitAVgvZ7qfCK4JO47t3oZ.jpg",
+               "title":"Samlingen Af Transformer Filmene",
+               "id":"56def7349251412eee0000ca"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/kUYha9j3oFgRdSQlROfj61ISjeO.jpg",
+               "title":"Gode Sci-Fi Film",
+               "id":"54408e79929fb858d1000052"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/7MGIEdu0Mokqt8i7snflYRLbooI.jpg",
+               "title":"Bedste Picture Vindere - Fra Academy Awards",
+               "id":"509ec17b19c2950a0600050d"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/iNGNoZbDKzawUulvL6x0drHOZNI.jpg",
+               "title":"Hele Ringenes Here Samlingen",
+               "id":"56d046029251416e3a002fc8"
+               },
+        
+               {
+               "url": "https://image.tmdb.org/t/p/w500/AoYGqtWxcNmQjQIpRCMtzpFfL1T.jpg",
+               "title":"De 10 Sjoveste Film Fra 2015",
+               "id":"56d05cf39251413e5f005ce2"
+               },
+               
+               {
+               "url": "https://image.tmdb.org/t/p/w500/bIlYH4l2AyYvEysmS2AOfjO7Dn8.jpg",
+               "title":"Terminator Filmene",
+               "id":"54906e07c3a3686d6e002470"
+               }
+               
+               
+               ]
+    
+}
