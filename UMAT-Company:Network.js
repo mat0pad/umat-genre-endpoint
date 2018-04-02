@@ -3,7 +3,7 @@
                 
                 {
                 "name": "Metro-Goldwyn-Mayer (MGM)",
-                "id":"8411",
+                "id":"21",
                 "is_company" : "true",
                 "head_line" : "Once the largest, most glamorous, and most revered film studio",
                 "image_1": "https://image.tmdb.org/t/p/w500/qhH3GyIfAnGv1pjdV3mw03qAilg.jpg",
