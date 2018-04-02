@@ -73,7 +73,7 @@
                 
                 {
                 "name": "20th Century Fox",
-                "id":"306",
+                "id":"25",
                 "is_company" : "true",
                 "head_line" : "One of the six major American film studios",
                 "image_1": "https://image.tmdb.org/t/p/w500/nbIrDhOtUpdD9HKDBRy02a8VhpV.jpg",
@@ -223,7 +223,7 @@
                 
                 {
                 "name": "Warner Bros.",
-                "id":"6194",
+                "id":"174",
                 "is_company" : "true",
                 "head_line" : "Originates from the four founding Warner brothers",
                 "image_1": "https://image.tmdb.org/t/p/w500/9aoWzwOwy9NLuSk9LkBwwrBdPYM.jpg",
