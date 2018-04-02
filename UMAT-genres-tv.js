@@ -14,13 +14,19 @@
                "id":"16"
                },
 			   
-			   {
+	      {
                "url": "https://image.tmdb.org/t/p/w500/n45rfwldkWjReVCV1iw2b9JhA2L.jpg",
                "title":"Comedy",
                "id":"35"
                },
+	    
+	      {
+               "url": "https://image.tmdb.org/t/p/w500/iuiaAx5wNlbDCAO0wiQy0RIlUt.jpg",
+               "title":"Crime",
+               "id":"80"
+               },
 			   
-			   {
+	       {
                "url": "https://image.tmdb.org/t/p/w500/c7t4tidzOw8E88puHlGsqizViOw.jpg",
                "title":"Documentary",
                "id":"99"
